@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 hey, i'm Dhir 
 
-<!--
-**dhirptl/dhirptl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Engineering student studying @ **University of Alberta**. I like building cool shit.  
 
-Here are some ideas to get you started:
+### ⚡ What I'm currently up to
+* 💻 **SWE Intern** @ ClutchVR *(building ML models & VR-based training tools)*
+* 🔬 **Undergraduate Research Assistant** @ UAlberta *(developing a Unity-to-ROS 2 bridge for assistive wheelchair systems)*
+* 🏎️ **FSAE drivetrain subsystem team member** @ UAlberta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Socials
+<!-- Replace the href links with your actual profile URLs -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhirptl)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhirpatell)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhir2@ualberta.ca)
+
+---
+
+### 💻 Tech Stack
+
+**Software & Machine Learning:** 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ros2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/computer_vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Hardware & Prototyping:** 
+![KiCad](https://img.shields.io/badge/kicad-FFFFFF?style=for-the-badge&logo=kicad&logoColor=black)
+![SolidWorks](https://img.shields.io/badge/solidworks-CE2029?style=for-the-badge&logo=dassault-systèmes&logoColor=white)
+![Autodesk Fusion 360](https://img.shields.io/badge/fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+
+---
+
+<!-- Optional: Dynamic GitHub Stats Card -->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&text_color=ffffff&icon_color=3670A0" alt="Dhir's GitHub Stats" />
+</div>
