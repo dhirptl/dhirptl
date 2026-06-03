@@ -34,5 +34,5 @@ I'm an Engineering student studying @ **University of Alberta**. I like building
 ---
 <!-- Fixed GitHub Stats Card -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhirptl&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&text_color=333333&icon_color=3670A0" alt="Dhir's GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dhirptl&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&text_color=333333&icon_color=3670A0" alt="Dhir's GitHub Stats" />
 </div>
