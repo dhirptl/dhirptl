@@ -34,6 +34,7 @@ I'm an Engineering student studying @ **University of Alberta**. I like building
 ---
 
 <!-- Optional: Dynamic GitHub Stats Card -->
+<!-- Simply copy and paste this, replacing YOUR_GITHUB_USERNAME -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&text_color=ffffff&icon_color=3670A0" alt="Dhir's GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dhirptl&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&text_color=ffffff&icon_color=3670A0" alt="GitHub Stats" />
 </div>
