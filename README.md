@@ -32,7 +32,5 @@ I'm an Engineering student studying @ **University of Alberta**. I like building
 ![Autodesk Fusion 360](https://img.shields.io/badge/fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ---
-<!-- Fixed GitHub Stats Card -->
-<div align="left">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dhirptl&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&text_color=333333&icon_color=3670A0" alt="Dhir's GitHub Stats" />
-</div>
+<img width="3000" height="1680" alt="image" src="https://github.com/user-attachments/assets/75c87e7d-9bb3-4ecb-baf1-3f08fff50bec" />
+
