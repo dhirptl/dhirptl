@@ -31,6 +31,3 @@ I'm an Engineering student studying @ **University of Alberta**. I like building
 ![SolidWorks](https://img.shields.io/badge/solidworks-CE2029?style=for-the-badge&logo=dassault-systèmes&logoColor=white)
 ![Autodesk Fusion 360](https://img.shields.io/badge/fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
----
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/75c87e7d-9bb3-4ecb-baf1-3f08fff50bec" />
-
