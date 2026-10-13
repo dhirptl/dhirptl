@@ -2,7 +2,7 @@
 
 Learning things by making things.
 
-**[See my work at dhirpabtel.ca →](https://www.dhirpatel.ca/)**
+**[See my work at dhirpatel.ca →](https://www.dhirpatel.ca/)**
 
 Mechatronics and Robotics @ University of Alberta
 
