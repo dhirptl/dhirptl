@@ -5,7 +5,7 @@ I'm an Mechatronics and Robotics Engineering student studying @ **University of 
 ### ⚡ What I'm currently up to
 * 💻 **SWE Intern** @ ClutchVR *(building ML models & VR-based training tools)*
 * 🔬 **Undergraduate Research Assistant** @ UAlberta *(developing a Unity-to-ROS 2 bridge for a BCI wheelchair system)*
-* 🏎️ **FSAE drivetrain subsystem team member** @ UAlberta
+* 🏎️ **FSAE drivetrain & low voltage subsystem team member** @ UAlberta
 
 ---
 
